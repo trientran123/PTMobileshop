@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="faf1b73a-e9cc-4114-b237-66869cf7314b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" notifyAboutMissingVendor="false" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2EQBHRMafD7ySr9YGQ1B8EHYODX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/PhpstormProjects/untitled1&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PhpstormProjects\untitled1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faf1b73a-e9cc-4114-b237-66869cf7314b" name="Changes" comment="" />
+      <created>1662517839310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662517839310</updated>
+      <workItem from="1662517840823" duration="34000" />
+      <workItem from="1662517896638" duration="1963000" />
+      <workItem from="1662691053226" duration="2753000" />
+      <workItem from="1662990010843" duration="1208000" />
+      <workItem from="1663293984816" duration="1815000" />
+      <workItem from="1663726586051" duration="2858000" />
+      <workItem from="1663897295781" duration="5539000" />
+      <workItem from="1663942230193" duration="8657000" />
+      <workItem from="1664026390786" duration="1290000" />
+      <workItem from="1664292127391" duration="5390000" />
+      <workItem from="1664331074127" duration="4431000" />
+      <workItem from="1664371530916" duration="7059000" />
+      <workItem from="1664444335255" duration="854000" />
+      <workItem from="1664462950086" duration="6432000" />
+      <workItem from="1664477733257" duration="959000" />
+      <workItem from="1664549795340" duration="8158000" />
+      <workItem from="1664640893761" duration="31000" />
+      <workItem from="1664978775019" duration="761000" />
+      <workItem from="1665155340995" duration="614000" />
+      <workItem from="1665370779306" duration="612000" />
+      <workItem from="1665497293399" duration="602000" />
+      <workItem from="1665508266330" duration="1818000" />
+      <workItem from="1665670662287" duration="3719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
